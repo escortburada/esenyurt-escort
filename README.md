@@ -1,7 +1,9 @@
 # esenyurt-escort
 Esenyurt bölgesinde profesyonel ve güvenilir escort hizmetleri sunan platformumuza hoş geldiniz. İstanbul’un hızla gelişen ilçelerinden Esenyurt'ta, kaliteli ve deneyimli escort ilanlarını kolayca bulabilir, tercihinize uygun seçeneklerle tanışabilirsiniz.  Sitemizdeki tüm escortlar, gizlilik ve müşteri memnuniyeti odaklı hizmet vermektedir.
 
-[![Esenyurt Escort](https://camo.githubusercontent.com/e2561c6e5b23c3cbcd2d8ee70d554008c66cbe049e183da6ccd0b86592cb978a/68747470733a2f2f692e6962622e636f2f354b374b7336772f7a7a7a7a332e676966)](https://demoesenyurt.com)
+<a href="https://demoescort.com" target="_blank">
+  <img src="https://camo.githubusercontent.com/e2561c6e5b23c3cbcd2d8ee70d554008c66cbe049e183da6ccd0b86592cb978a/68747470733a2f2f692e6962622e636f2f354b374b7336772f7a7a7a7a332e676966" alt="Esenyurt Escort" />
+</a>
 
 <h1>Esenyurt Escort Platformu</h1>
 
